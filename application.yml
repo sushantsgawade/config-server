@@ -4,4 +4,4 @@ server:
 logging:
   config: classpath:log4j2.properties
   
-client: 1
+client: 2
