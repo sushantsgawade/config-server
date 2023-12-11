@@ -5,7 +5,7 @@ server:
 
 profile: dev
   
-client: test
+client: test1
 
 dev:
   hostName: localhost
