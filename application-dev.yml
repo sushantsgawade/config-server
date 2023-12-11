@@ -1,0 +1,13 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /client1
+
+profile: dev
+  
+client: test
+
+dev:
+  hostName: localhost
+  port: 8080
+  from: config-server
